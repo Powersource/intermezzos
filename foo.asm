@@ -1,5 +1,3 @@
-; foo.asm
-
 section .data
 global _start
 
